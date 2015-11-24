@@ -1,0 +1,85 @@
+Usability Testing
+What is Usability Testing?
+
+Usability testing is nothing but the User-friendliness check.
+In Usability testing,  the application flow is tested so that a new user can understand the application easily.
+Basically, system navigation is checked in Usability testing.
+What is the purpose or Goal of Usability testing?
+
+A Usability test establishes the ease of use and effectiveness of a product using a standard Usability test practices.
+
+Usability Test Scenarios:
+
+Web page content should be correct without any spelling or grammatical errors
+All fonts should be same as per the requirements.
+All the text should be properly aligned.
+All the error messages should be correct without any spelling or grammatical errors and the error message should match with the field label.
+Tool tip text should be there for every field.
+All the fields should be properly aligned.
+Enough space should be provided between field labels, columns, rows, and error messages.
+All the buttons should be in a standard format and size.
+Home link should be there on every single page.
+Disabled fields should be grayed out.
+Check for broken links and images.
+Confirmation message should be displayed for any kind of update and delete operation.
+Check the site on different resolutions (640 x 480, 600x800 etc.?)
+Check the end user can run the system without frustration.
+Check the tab should work properly.
+Scroll bar should appear only if required.
+If there is an error message on submit, the information filled by the user should be there.
+Title should display on each web page
+All fields (Textbox, dropdown, radio button etc) and buttons should be accessible by keyboard shortcuts and the user should be able to perform all operations by using keyboard.
+Check if the dropdown data is not truncated due to the field size and also check whether the data is hardcoded or managed via administrator.
+ 
+
+Functional Testing:
+What is Functional Testing?
+Testing the features and operational behavior of a product to ensure they correspond to its specifications.
+Testing that ignores the internal mechanism of a system or component and focuses solely on the outputs generated in response to selected inputs and execution conditions.
+What is the purpose or Goal of Functional testing?
+
+The goal of Functional testing is to verify whether your product meets the intended functional specifications mentioned in your development documentation.
+Functional Test Scenarios:
+
+Test all the mandatory fields should be validated.
+Test the asterisk sign should display for all the mandatory fields.
+Test the system should not display the error message for optional fields.
+Test that leap years are validated correctly & do not cause errors/miscalculations.
+Test the numeric fields should not accept the alphabets and proper error message should display.
+Test for negative numbers if allowed for numeric fields.
+Test division by zero should be handled properly for calculations.
+Test the max length of every field to ensure the data is not truncated.
+Test the pop up message ("This field is limited to 500 characters") should display if the data reaches  the maximum size of the field.
+Test that a confirmation message should display for update and delete operations.
+Test the amount values should display in currency format.
+Test all input fields for special characters.
+Test the timeout functionality.
+Test the Sorting functionality.
+Test the functionality of the buttons available
+Test the Privacy Policy & FAQ is clearly defined and should be available for users.
+Test if any functionality fails the user gets redirected to the custom error page.
+Test all the uploaded documents are opened properly.
+Test the user should be able to download the uploaded files.
+Test the email functionality of the system.
+Test the java script is properly working in different browsers (IE, Firefox, Chrome, safari and Opera).
+Test to see what happens if a user deletes cookies while in the site.
+Test to see what happens if a user deletes cookies after visiting a site.
+Test all the data inside combo/list box is arranged in chronological order.
+ 
+
+Compatibility Testing:
+What is Compatibility testing?
+
+Compability testing is used to determine if your software is compatible with other elements of a system with which it should operate, e.g. Browsers, Operating Systems, or hardware.
+What is the purpose or Goal of Compatibility testing?
+
+The purpose of Comp ability testing is to evaluate how well software performs in a particular browser, Operating Systems, hardware or software.
+Compability Test Scenarios:
+
+
+Test the website in different browsers (IE, Firefox, Chrome, Safari and Opera) and ensure the website is displaying properly.
+Test the HTML version being used is compatible with appropriate browser versions.
+Test the images display correctly in different browsers.
+Test the fonts are usable in different browsers.
+Test the java script code is usable in different browsers.
+Test the Animated GIF's across different browsers.
